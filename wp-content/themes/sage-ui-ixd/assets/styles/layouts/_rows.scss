@@ -1,0 +1,9 @@
+.row {
+  @include span($columns-total);
+  .column {
+    border-bottom: none;
+  }
+}
+.row.last {
+  border-bottom: 1px solid $border-light;
+}

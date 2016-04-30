@@ -1,0 +1,17 @@
+// Glyphicons font path
+$icon-font-path:        "../fonts/";
+
+// Content boxes
+$columns-total: 60;
+$column-one-fifth: $columns-total / 5; // 12
+$column-one-quarter: $columns-total / 4; // 15
+$column-one-third: $columns-total / 3; // 20
+$column-one-half: $columns-total / 2; // 30
+$column-height: 150px;
+
+// TODO: - check if this var is used anywhere
+$sidebar-sm-columns: 4;
+
+// Colors
+$brand-primary:         #27ae60;
+$border-light:          #ccc;
